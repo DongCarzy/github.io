@@ -76,8 +76,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '大杂烩',
         link: '/more/',
         items: [
-          { text: '网站', link: '/pages/beb6c0bd8a66cea6/' },
-        ],
+          {text: '协议', link: '/pages/https01/'}
+        ]
       },
       {
         text: '索引',
@@ -146,7 +146,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     blogger: {
       avatar: '/img/dxp.png',
       name: '董新平',
-      slogan: '程序猿',
+      slogan: '一个普普通通的代码程序猿',
     },
 
     // 社交图标 (显示于博主信息栏和页脚栏。内置图标：https://doc.dongxinping.com/pages/a20ce8/#social)
@@ -197,7 +197,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         name: 'keywords',
         content:
-          '前端博客,个人技术博客,前端,前端开发,前端框架,web前端,前端面试题,技术文档,学习,面试,JavaScript,js,ES6,TypeScript,vue,python,css3,html5,Node,git,github,markdown',
+          '个人技术博客,技术文档,学习,markdown',
       },
     ],
     ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证（你可以去掉）
