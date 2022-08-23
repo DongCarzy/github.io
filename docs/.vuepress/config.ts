@@ -45,7 +45,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: '数据库',
         link: '/db/',
         items: [
-          { text: 'Mysql', link: '/pages/1/' },
+          { text: 'Mysql', link: '/pages/9a7ee4/' },
           { text: 'Postgresql', link: '/pages/2/' },
           { text: '达梦', link: '/pages/3/' },
         ],
