@@ -36,7 +36,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: 'JDk', link: '/pages/674c3d/' },
           { text: 'Spring系列', link: '/pages/94f596/' },
           { text: '微服务', link: '/java/cloud/' },
-          { text: 'Json', link: '/java/json/' },
+          { text: 'Json', link: '/pages/5436f5/' },
           { text: 'Netty', link: '/java/netty/' },
           { text: 'Bug', link: '/java/bug/' },
         ],
